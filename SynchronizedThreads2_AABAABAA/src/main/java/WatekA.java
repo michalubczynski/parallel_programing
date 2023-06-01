@@ -22,6 +22,5 @@ public class WatekA extends Thread {
         } catch (InterruptedException e) {
             System.out.println("Koniec watku A");
         }
-
     }
 }

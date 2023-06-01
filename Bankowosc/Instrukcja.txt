@@ -1,0 +1,22 @@
+/**
+ * Mamy dwa konta bankowe konto1 oraz konto2, zadanie polega na stworzeniu wątku, który umożliwi bezpieczną realizację funkcji przelania po 1zł pieniędzy z jednego konta na drugie.
+ * W programie jednocześnie będzie działało 10 wątków.
+ * Twoje zadanie polega na:
+ * Implementacji klasy Konto. Zwróć uwagę na zależności w metodzie main()
+ * Implementacji metody run() w klasie MojWatek (patrz poniżej), tak aby:
+ * - bezpiecznie pobrać z Konto1 1zł i dodać 1zł pobrany z Konto1 do aktualnego stanu Konto2
+ * - w ramach jednego wątku pomiędzy kolejnymi iteracjami cyklu pobranie / zapis na konto musi być przerwa minimum 10ms
+ * - jeśli na Konto1 nie ma już pieniędzy wątek powinien się zakończyć
+ * - Wątki powinny prawidłowo reagować na polecenie interrupt.
+ * - program powinien gwarantować możliwość działania współbieżnego, czyli należy zapewnić żywotność i bezpieczeństwo. Rozwiązanie w którym jeden wątek blokuje dostę innym na cały czas działania wątku będzie skutkowało oceną niedostateczną
+ * <p>
+ * UWAGA: Interfejs IKonto składa sie z dwóch metod - pozwalającej na odczyt stanu okta, oraz na zapis stanu konta
+ * <p>
+ * Zwróć uwagę na komentarze poniżej.  
+ * UWAGA:
+ * 1) docelowo metod main powinna pozostać nie zmieniona (choć można w niej robić drobne modyfikacje na potrzeby debugowania)
+ * 2) konstruktora klasy MojWatek nie wolno modyfikować,
+ * 3) Można i należy dodać implementacji metody run()
+ * 4) Dla ułatwienia zacznij od 1 wątku.
+ * 5) Resztę programu uzupełnić na podstawie kodu metody main() oraz gotowych fragmentów klasy MyWatek()
+ */
