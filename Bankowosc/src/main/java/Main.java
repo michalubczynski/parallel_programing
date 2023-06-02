@@ -86,10 +86,7 @@ class MojWatek extends Thread {
                 System.out.println("+1");
                 Thread.sleep((int) (Math.random() * 5));
             }
-
-
-        } catch (
-                Exception e) {
+        } catch (Exception e) {
             System.out.println("Koniec przelewania");
         }
     }

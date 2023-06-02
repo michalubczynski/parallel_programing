@@ -5,52 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c4ac4d11-b32a-4bdb-b79e-40381aa92f5f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../AutomatDoNapojow/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AutomatDoNapojow/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AutomatDoNapojow/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AutomatDoNapojow/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AutomatDoNapojow/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AutomatDoNapojow/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AutomatDoNapojow/Instrukcja.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AutomatDoNapojow/src/main/java/Bufor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AutomatDoNapojow/src/main/java/IBufor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AutomatDoNapojow/src/main/java/Klient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AutomatDoNapojow/src/main/java/KoloThread4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AutomatDoNapojow/src/main/java/Sterowanie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AutomatDoNapojow/target/classes/Bufor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AutomatDoNapojow/target/classes/IBufor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AutomatDoNapojow/target/classes/Klient.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AutomatDoNapojow/target/classes/KoloThread4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AutomatDoNapojow/target/classes/Sterowanie.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Instrukcja.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/IKonto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Konto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/IKonto.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Konto.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/MojWatek.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SynchronizedThreads3_ABCBABCBA/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SynchronizedThreads3_ABCBABCBA/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SynchronizedThreads3_ABCBABCBA/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SynchronizedThreads3_ABCBABCBA/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SynchronizedThreads3_ABCBABCBA/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SynchronizedThreads3_ABCBABCBA/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SynchronizedThreads3_ABCBABCBA/Instrukcja.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SynchronizedThreads3_ABCBABCBA/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SynchronizedThreads3_ABCBABCBA/src/main/java/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SynchronizedThreads3_ABCBABCBA/src/main/java/SequenceHolder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SynchronizedThreads3_ABCBABCBA/src/main/java/WatekA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SynchronizedThreads3_ABCBABCBA/src/main/java/WatekB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SynchronizedThreads3_ABCBABCBA/src/main/java/WatekC.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SynchronizedThreads2_AABAABAA/src/main/java/WatekA.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SynchronizedThreads2_AABAABAA/src/main/java/WatekA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/MojWatek.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/MojWatek.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,20 +39,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
@@ -118,7 +75,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1685629919510</updated>
-      <workItem from="1685629920590" duration="5475000" />
+      <workItem from="1685629920590" duration="6825000" />
+      <workItem from="1685699844488" duration="1105000" />
+      <workItem from="1685701143547" duration="739000" />
     </task>
     <servers />
   </component>
